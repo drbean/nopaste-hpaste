@@ -1,7 +1,7 @@
 package App::Nopaste::Service::Hpaste;
 
 # Created: 西元2011年02月15日 19時51分40秒
-# Last Edit: 2011  8月 06, 16時37分55秒
+# Last Edit: 2011  8月 06, 16時49分43秒
 # $Id$
 
 =head1 NAME
@@ -39,7 +39,7 @@ my %Langs = (
     "Common Lisp" => "lisp",
     "CSS" => "css",
     "D" => "d",
-    "Diff" => "diff"
+    "Diff" => "diff",
     "Elisp" => "elisp",
     "Erlang" => "erlang",
     "Java" => "java",
